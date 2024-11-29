@@ -2,7 +2,7 @@
 
 Este proyecto es un script de Bash diseñado para bloquear direcciones IP maliciosas reportadas en una lista específica, agregándolas al archivo `/etc/hosts.deny`. Su propósito es mejorar la seguridad del sistema al prevenir el acceso de IPs no deseadas.
 
-[escritorio](BadIPs.png)
+![Captura](BadIPs.png)
 ## Características
 
 - **Automatización:** Descarga automáticamente una lista de IPs desde una fuente remota.
@@ -142,4 +142,7 @@ Esto ejecutará el script en segundo plano en el horario definido.
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
-[![comprar cafe](kofi.png)](https://ko-fi.com/P5P013UUGZ)
+<a href="https://ko-fi.com/P5P013UUGZ">
+    <img src="kofi.png" alt="comprar cafe" width="150" />
+</a>
+
